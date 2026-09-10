@@ -6,4 +6,5 @@ so, THE COMMAND - ssh bandit0@bandit.labs.overthewire.org -p 2220
 use -p to specify the port number 
 use the default password given - bandit0 then use ls command to see the files open the files given using cat command
 THE PASSWORD IS 6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR0
+![image alt](https://github.com/visxxu7749-create/overthewire_bandit/blob/main/level0.png?raw=true)
 
