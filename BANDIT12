@@ -1,0 +1,5 @@
+LEVEL 12 -> 13
+xxd → works with hexadecimal dumps
+-r reverse the hex dump 
+> it redirects the output to the filename gn 
+xxd -r data.txt > data
