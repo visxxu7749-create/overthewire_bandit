@@ -1,0 +1,9 @@
+LEVEL 0 Connect to the remote challenge server using SSH
+ SSH - is a command to connect securely to remote computer over a  network
+COMMON MISTAKE - ssh bandit0@bandit.labs.overthewire.org
+in question they specified to connect on a port 
+so, THE COMMAND - ssh bandit0@bandit.labs.overthewire.org -p 2220 
+use -p to specify the port number 
+use the default password given - bandit0 then use ls command to see the files open the files given using cat command
+THE PASSWORD IS 6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR0
+
