@@ -1,0 +1,6 @@
+LEVEL 2->3
+Find the password stored in a file whose name contains spaces and begins/ends with --.
+COMMON MISTAKE cat ./--spaces in this filename--
+since there are spaces enclose the filename within quotes to make it as one unit 
+cat "./--spaces in this filename--"
+7ZZ2LFrykP2zEyvBl4m3clcL7tGYJPME
