@@ -1,0 +1,8 @@
+LEVEL 5-> 6
+Find the password stored in a file that meets the given conditions inside the inhere directory.
+-readable gives human readable format
+-size checks for size 
+find -readable -size 1033c
+this gives the directory copy that in cat for password
+cat ./maybehere07/.file2
+6C7h9GDm6ai5n7wo1RonnFzjj9y1G
