@@ -1,0 +1,6 @@
+LEVEL 8 -> 9
+Find the password in data.txt. The password is the only line that occurs exactly once.
+sort used to sort lines alphabetically
+piping command is used to connect two or more commands on a single line 
+sort data.txt | uniq -u
+uniq -u → displays only unique lines-lines that appear once
