@@ -1,0 +1,6 @@
+LEVEL 10->11
+The password for the next level is stored in the file data.txt, which contains base64 encoded data
+base64 -d
+takes Base64-encoded input and converts it back to its original form 
+base64 these encodig and decoding commands 
+cat data.txt | base64 -d
