@@ -1,0 +1,8 @@
+LEVEL 13->14
+In this level a private SSH key is used to access the shell using the bandit14 user then viewing the password from the /etc/bandit_pass directory
+-i means identity file
+Instead of entering a password, SSH uses this key to authenticate you
+ssh -i sshkey.private bandit.labs.overthewire.org -p 2220 -l bandit14
+chmod is used to change permissions 
+chmod 600 sshkey.private
+Once logged into the bandit14 terminal you simply cat the password.
