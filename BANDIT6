@@ -1,0 +1,7 @@
+LEVEL 6 -> 7
+-user is used for owner 
+-group is used for group 
+-size is used for size 
+find -user bandit7 -group bandit6 -size 33c
+cat ./var/lib/dpkg/info/bandit7.password
+pXa26xhMWaC2SvDotA4r9EgZkulOeSBW
