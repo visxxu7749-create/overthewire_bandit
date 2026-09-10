@@ -1,0 +1,4 @@
+LEVEL 9-10
+This time the large file is a binary file not a text file so the -a tag must be used with the grep command and then the readable password can be discerned manually from the 4 options outputted.
+"==========" searches for a sequence of = characters.
+cat data.txt | grep -a ==========
